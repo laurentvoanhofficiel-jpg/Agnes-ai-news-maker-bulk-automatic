@@ -1,5 +1,5 @@
 
-```markdown
+
 # 🎬 NewsReel Studio
 
 > **Transformer l'actualité en un journal visuel généré par IA — satire, cinéma et engagement politique en 8 tableaux.**
